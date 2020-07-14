@@ -1,0 +1,28 @@
+{
+  "name": "mbc-employee-summary",
+  "version": "1.0.0",
+  "description": "Employee Summary Generator",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suji-GitH/MBC-Employee-Summary.git"
+  },
+  "keywords": [
+    "Employee",
+    "Generator",
+    "Bootcamp"
+  ],
+  "author": "Suji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Suji-GitH/MBC-Employee-Summary/issues"
+  },
+  "homepage": "https://github.com/Suji-GitH/MBC-Employee-Summary#readme"
+}
