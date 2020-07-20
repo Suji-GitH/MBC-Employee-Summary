@@ -2,7 +2,7 @@
 
 ## Application & Repository Link
 
-###### [Application Walkthrough](https://github.com/Suji-GitH/MBC-Employee-Summary/assets/app-walkthrough)
+###### [Application Walkthrough](https://drive.google.com/file/d/1p4LqZLVq4nolA9hq-2H6RBQQBxPESh3X/view?usp=sharing)
 
 ###### [Repository Link](https://github.com/Suji-GitH/MBC-Employee-Summary)
 
@@ -51,6 +51,6 @@ Output html
 
 This application is tested by TDD methodology. This link below will guide you to test cases written using npm jest format.  
 
-###### [Test Cases](https://github.com/Suji-GitH/MBC-Employee-Summary/test)
+###### [Test Cases](https://github.com/Suji-GitH/MBC-Employee-Summary/tree/master/test)
 
 
