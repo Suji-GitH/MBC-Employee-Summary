@@ -2,7 +2,7 @@
 
 ## Application & Repository Link
 
-###### [Application Walkthrough]()
+###### [Application Walkthrough](https://github.com/Suji-GitH/MBC-Employee-Summary/assets/app-walkthrough)
 
 ###### [Repository Link](https://github.com/Suji-GitH/MBC-Employee-Summary)
 
@@ -31,20 +31,21 @@ so that I have quick access to emails and GitHub profiles
 
 ###### App Screenshots
 
-Landing Page
-<img src = "./assets/Screenshots/FilePath.jpg">
+Initiate Application
+<img src = "./assets/Screenshots/initiate.jpg">
 
-About
-<img src = "./assets/Screenshots/Initiate.jpg">
+Employee Prompts
+<img src = "./assets/Screenshots/rolePrompts.jpg">
 
-Portfolio
-<img src = "./assets/Screenshots/Prompt.jpg">
+Output html
+<img src = "./assets/Screenshots/app.jpg">
 
 ## Credits
 
 - npm inquirer 
 - npm jest
 - node.js
+- UIkit
 
 ## Testing 
 
